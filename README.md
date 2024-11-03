@@ -2,7 +2,7 @@
 
 This project was developed as part of the TAAC course at the Faculty of Sciences, University of Porto (FCUP).
 
-## Project Members
+## Project Members (Group P2_D)
 - **Daniel Dias**
 - **Lucas Santiago**
 - **Rafael Conceição**
